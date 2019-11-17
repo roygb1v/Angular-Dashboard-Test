@@ -1,10 +1,15 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
+  template: `
+    <div>
+      <product-dashboard [statusTitle]="title"></product-dashboard>
+    </div>
+  `,
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-test-app';
+  title: string = 'Status Check:';
+  constructor() {}
 }

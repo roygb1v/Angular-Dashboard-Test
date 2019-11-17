@@ -1,0 +1,19 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  width: 700px;
+  height: 200px;
+  border: 1px dashed black;
+  margin-top: 10px;
+}
+
+.productImage {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  margin-left: 20px;
+  text-align: center;
+}

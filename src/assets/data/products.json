@@ -1,0 +1,8 @@
+[
+    {"id": "11223344", "name": "Louis Vuitton", "images": ["PictureOne", "PictureTwo", "PictureThree"], "status": "pending"},
+    {"id": "55667788", "name": "Balenciaga", "images": ["PictureOne", "PictureTwo", "PictureThree"], "status": "pending"},
+    {"id": "23456781", "name": "Chanel", "images": ["PictureOne", "PictureTwo", "PictureThree"], "status": "approved"},
+    {"id": "22334455", "name": "Bottega", "images": ["PictureOne", "PictureTwo", "PictureThree"], "status": "rejected"},
+    {"id": "33445566", "name": "Ralph Lauren", "images": ["PictureOne", "PictureTwo", "PictureThree"], "status": "approved"},
+    {"id": "44556677", "name": "Salvatore Ferragamo", "images": ["PictureOne", "PictureTwo", "PictureThree"], "status": "approved"}
+]
