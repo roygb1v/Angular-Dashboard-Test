@@ -1,8 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
 ul {
   list-style-type: none;
 }
 
-li {
+.image-container {
   width: 700px;
   height: 200px;
   border: 1px dashed black;

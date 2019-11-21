@@ -10,6 +10,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title: string = 'Status Check:';
+  title = 'Status Check:';
   constructor() {}
 }
